@@ -178,14 +178,6 @@ Python • NLP • Machine Learning • Text Classification
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=tokyonight)
-
----
-
 ## 🌟 Career Objective
 
 To leverage analytical thinking, data-driven methodologies, and modern technologies to solve business problems and contribute to impactful projects in the fields of Data Analytics and Data Science.
