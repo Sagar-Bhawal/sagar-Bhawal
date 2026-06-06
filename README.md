@@ -200,7 +200,7 @@ To leverage analytical thinking, data-driven methodologies, and modern technolog
 
 🌐 Portfolio: 
 
-🐙 GitHub: https://github.com/sagarbhawal-creator/sagar-Bhawal
+🐙 GitHub: https://github.com/sagar-Bhawal/sagar-Bhawal
 
 ---
 
